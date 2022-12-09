@@ -60,7 +60,7 @@ Los materiales necesarios para realizar el laboratorio 3 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/206635502-854a43f8-6f46-45c7-bb52-8aed07c2b140.png)
 
-![image](https://user-images.githubusercontent.com/117920423/206635567-9dc6e96e-e738-49da-a864-f4e6c03e9a4d.png)
+![image](https://user-images.githubusercontent.com/117920423/206645661-4c477430-54ce-4858-921b-adf29692e177.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/206635660-1debb625-8a24-4133-8224-dec1d63e578e.png)
 
@@ -84,7 +84,7 @@ Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 - Mediante tinkercad se llevó a cabo la simulación de nuestro circuito, elaborándolo también de manera física con cada elemento requerido y además teniendo un conocimiento de cómo funciona.
 
-- Encontrando los voltajes de cada nodo de manera física, se presentó un diminuto margen de error, lo que nos quiere decir que nuestros cálculos y circuito están perfectamente corrrectos.
+- Encontrando los voltajes de cada nodo de manera física, se presentó un diminuto margen de error, lo que nos quiere decir que nuestros cálculos y circuito están corrrectos.
 
 7. BIBLIOGRAFÍA.
 
