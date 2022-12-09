@@ -86,7 +86,13 @@ Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 7. BIBLIOGRAFÍA.
 
-- 
+- El método del voltaje en los nodos. (s/f). Khan Academy. Recuperado el 9 de diciembre de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
+- El_estudiante [@Elestudiante]. (2019, mayo 8). ANÁLISIS DE NODOS 📚 Pasos para CALCULAR VOLTAJE de CIRCUITOS ELÉCTRICOS usando Leyes de Kirchhoff. Youtube. https://www.youtube.com/watch?v=rshQaTLyiQE
+
+- Ley de Ohm y Leyes de Kirchhoff. (2013, septiembre 23). Los tipos de energia. https://lostiposdeenergia.wordpress.com/ley-de-ohm-y-leyes-de-kirchhoff/
+
+
 
 
 
