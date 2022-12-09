@@ -78,6 +78,8 @@ Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
 5. VIDEO.
 
+https://youtu.be/TfTW5qLej1A
+
 6. CONCLUSIONES.
 
 - Al aplicar las distintas leyes proporcionadas para nuestros cálculos se pudo obtener el valor de nuestros nodos requeridos.
