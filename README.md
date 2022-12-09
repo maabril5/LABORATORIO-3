@@ -10,7 +10,9 @@ ANÁLISIS DE NODOS.
 
 1. OBJETIVOS GENERALES
 
-- Reconocer los nodos presentes un circuito para su posterior análisis y cálculo.
+- Reconocer los nodos presentes en el circuito para su posterior análisis y cálculo.
+
+- Determinar el voltaje que pasa a través de cada nodo conociendo el uso de las leyes vistas en clase.
 
 - Realizar un video explicativo de lo que fue armar el circuito y la determinación de sus cálculos.
 
